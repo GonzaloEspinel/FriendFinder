@@ -1,0 +1,21 @@
+
+
+{"table":
+    [{"name":"Oscar","photo":"https://en.wikipedia.org/wiki/Oscar_D%27Le%C3%B3n#/media/File:Oscar_D%27Le%C3%B3n_2009.jpg","scores":[4,1,2,2,1,1,1,5,1,1]},
+
+    {"name":"Isco","photo":"https://en.wikipedia.org/wiki/Isco#/media/File:Liver-RM_(5)_(cropped).jpg","scores":[1,2,3,4,5,5,2,3,1,5]},
+
+    {"name":"Ramos","photo":"https://en.wikipedia.org/wiki/Sergio_Ramos#/media/File:Sergio_Ramos_vs_Russia_2018.jpg","scores":[1,2,3,4,5,1,2,3,4,5]},
+    
+    {"name":"Ronaldo","photo":"https://en.wikipedia.org/wiki/Cristiano_Ronaldo#/media/File:Ronaldo_vs._FC_Schalke_04_(16854146922).jpg","scores":[1,2,3,4,1,5,5,2,4,5]},
+    
+    {"name":"Shakira","photo":"https://upload.wikimedia.org/wikipedia/commons/0/09/Shakira_Rio_02.jpg","scores":["1","2","3","3","3","4","3","4","3","2"]},
+    
+    {"name":"Tom","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/563px-Tom_Brady_2017.JPG","scores":["3","1","1","3","5","2","4","2","3","3"]},
+    
+    {"name":"Prince","photo":"https://img.wennermedia.com/featured-promo-782/prince-bio-a43e8bee-67ec-448e-b038-ea314bf59e1e.jpg",
+    "scores":["3","3","3","1","5","1","4","1","4","4"]},
+    
+    {"name":"Madonna","photo":"https://nyppagesix.files.wordpress.com/2018/06/gettyimages-854836082.jpg?quality=90&strip=all&w=618&h=410&crop=1","scores":["2","4","4","3","4","3","2","3","3","3"]},
+    
+    {"name":"Derek","photo":"http://mlb.mlb.com/mlb/images/players/head_shot/116539.jpg","scores":["5","5","4","5","2","1","1","5","5","4"]}]}
